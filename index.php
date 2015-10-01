@@ -10,7 +10,7 @@
       <hr>
       <h1>Hello {{yourName}} {{1+1}}!</h1>
 	  <script type="text/javascript">
-		console.log("angular object: ",angular);
+		console.log("Angular object: ",angular);
 	</script>
     </div>
   </body>
